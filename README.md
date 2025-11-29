@@ -8,29 +8,22 @@ Ini adalah simulasi web sederhana berbasis PHP bernama PokéCare untuk melatih p
 
 
 # Struktur File
-Responsi/
-│
-├── assets/
-│   ├── raticate.png
-│   └── bg_grass.jpg
-│
-├── data/
-│   ├── raticate.json        ← Menyimpan state Pokémon
-│   └── riwayat.json         ← Menyimpan riwayat latihan
-│
-├── kode/
-│   ├── Pokemon.php          ← Class induk (Abstraction + Inheritance)
-│   ├── Raticate.php         ← Child class Pokémon
-│   ├── Training.php         ← Perhitungan latihan & EXP
-│   └── utils.php            ← Helper untuk menyimpan & load JSON
-│
-├── styling/
-│   └── style.css            ← Style halaman
-│
-├── index.php                ← Halaman Beranda
-├── latihan.php              ← Halaman Latihan Pokémon
-├── riwayat.php              ← Halaman Riwayat Latihan
-└── README.md                ← Dokumentasi proyek
+folder Responsi yg berisi
+1. folder assest           ← menyimpan aset yg digunakan
+2. folder data yg berisi
+   1. raticate.json        ← Menyimpan state Pokémon
+   2. riwayat.json         ← Menyimpan riwayat latihan
+3. folder kode yg berisi
+   1. Pokemon.php          ← Class induk (Abstraction + Inheritance)
+   2. Raticate.php         ← Child class Pokémon
+   3. Training.php         ← Perhitungan latihan & EXP
+   4. utils.php            ← Helper untuk menyimpan & load JSON
+4. folder styling yg berisi
+   1. style.css            ← Style halaman
+5. index.php               ← Halaman Beranda
+6. latihan.php             ← Halaman Latihan Pokémon
+7. riwayat.php             ← Halaman Riwayat Latihan
+8. README.md               ← Dokumentasi proyek
 
 # Cara Menjalankan Program
 Karena saya menggunakan laragon maka saya akan menunjukkan cara menjalannkan program dengan laragon:
