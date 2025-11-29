@@ -28,5 +28,5 @@ folder Responsi yg berisi
 # Cara Menjalankan Program
 Karena saya menggunakan laragon maka saya akan menunjukkan cara menjalannkan program dengan laragon:
 1. Buka laragon lalu nyalakan
-2. Klik kanan pada laragon -> www -> pilih folder dimana kamu menyimpan kode tersebut -> klik folder tersebut.
+2. Klik kanan pada laragon -> www -> pilih folder dimana kamu menyimpan kode tersebut -> klik folder tersebut hingga akhirnya berpindah ke laman web.
 
