@@ -1,0 +1,31 @@
+{
+    "name": "Raticate",
+    "type": "Normal",
+    "height": 0.7,
+    "weight": 18.5,
+    "category": "Pok\u00e9mon Tikus",
+    "abilities": [
+        "Run Away",
+        "Guts"
+    ],
+    "gender": "\u2642 \/ \u2640",
+    "baseStats": {
+        "hp": 55,
+        "atk": 81,
+        "def": 60,
+        "spatk": 50,
+        "spdef": 70,
+        "speed": 97
+    },
+    "stats": {
+        "hp": 55,
+        "atk": 81,
+        "def": 60,
+        "spatk": 50,
+        "spdef": 70,
+        "speed": 97
+    },
+    "level": 20,
+    "exp": 0,
+    "growthRate": "Medium Fast"
+}
