@@ -30,3 +30,4 @@ Karena saya menggunakan laragon maka saya akan menunjukkan cara menjalannkan pro
 1. Buka laragon lalu nyalakan
 2. Klik kanan pada laragon -> www -> pilih folder dimana kamu menyimpan kode tersebut -> klik folder tersebut hingga akhirnya berpindah ke laman web.
 
+![2025-11-29+15-56-44](https://github.com/user-attachments/assets/36c62904-ea35-4379-bbc5-6e2d66276247)
